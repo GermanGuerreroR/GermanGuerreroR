@@ -1,6 +1,6 @@
 <h1 align="center">Soy Germán Guerrero.</h1>
 <h3 align="center">Estudiante de Desarrollo de Análisis y Desarrollo de Software. Algoritmía.</h3>
-<img scr="https://www.codewars.com/users/GermanGuerrero95/badges/large">
+ <img src="https://www.codewars.com/users/GermanGuerrero95/badges/large" alt="codeWarsBadge">
 - 🌱 Actualmente estoy aprendiendo **Node**
 
 - 💬 Ask me about **PostgreSQL,JavaScript,TS**
