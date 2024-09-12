@@ -1,11 +1,11 @@
 <h1 align="center">Soy Germán Guerrero.</h1>
 <h3 align="center">Estudiante de Desarrollo de Análisis y Desarrollo de Software. Algoritmía.</h3>
-
+<img scr="https://www.codewars.com/users/GermanGuerrero95/badges/large">
 - 🌱 Actualmente estoy aprendiendo **Node**
 
 - 💬 Ask me about **PostgreSQL,JavaScript,TS**
 
-- 📫 How to reach me **g1a2g3r4@gmail.com**
+- 📫 How to reach me **germanguerreradso@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
