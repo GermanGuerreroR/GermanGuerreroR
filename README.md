@@ -13,5 +13,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="200" height="200"/>
 </p>
 
-<a align="center"  href="https://linkedin.com/in/https://www.linkedin.com/in/german-guerrero-backend-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/german-guerrero-backend-dev/" height="30" width="40" /></a>
+
+<p align="center">
+ <a href="https://linkedin.com/in/https://www.linkedin.com/in/german-guerrero-backend-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/german-guerrero-backend-dev/" height="30" width="40" /></a>
 </p>
+</p>
+
+
