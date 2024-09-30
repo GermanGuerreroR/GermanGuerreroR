@@ -5,7 +5,7 @@
 
 
  <p align="center"   >Algoritmia</p>
-<p align="center" style="margin-top: 50px;"> <img  src="https://www.codewars.com/users/GermanGuerrero95/badges/large" alt="codeWarsBadge">  </p>
+<p align="center" style="margin-top: 50px;"> <img  src="https://www.codewars.com/users/GermanGuerreroR/badges/small" alt="codeWarsBadge">  </p>
  <h3 style="margin-top: 50px;" align="center">Tecnologías™</h3>
 
 <p align="center">
