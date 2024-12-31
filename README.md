@@ -1,6 +1,8 @@
 <h1 align="center" > Germán Guerrero</h1>
-<p align="center"> Backend Developer </p>
-        <h3 align="center">Estudiante de Desarrollo de Análisis y Desarrollo de Software.</h3>
+<h3 align="center">Student of Software Analysis and Development.</h3>
+<div align="center">
+<img  src="https://upload.wikimedia.org/wikipedia/commons/8/83/Sena_Colombia_logo.svg" alt="Logo del SENA" width="200" height="200"/>
+</div>
            
        
 
